@@ -12,6 +12,7 @@ h1{
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
+    padding: 150px;
 }
 .welcome{
     width: 50%;
@@ -29,3 +30,9 @@ h1{
     color: white;
     font-weight: 700px;
 }
+.dream-big{
+    display: flex;
+    background-image:url(images/dream-bg.png);
+    background-repeat: no-repeat;
+}
+
